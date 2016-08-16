@@ -1,0 +1,14 @@
+layout_spectrum: 0.28074052766896784
+typography_spectrum: 0.8393443152308464
+color:
+  brandStrength: 0.38121939543634653
+  lightness: 0.45312199695035815
+  saturation: 0.6735160127282143
+  rhythmicContrast: 0.4683184989262372
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: Wuffelpuff
